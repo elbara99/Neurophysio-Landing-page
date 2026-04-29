@@ -2,10 +2,10 @@
 
 Official website for the Neurophysiology and Functional Exploration clinic of Dr. Belaid Mayada, located in Batna, Algeria.
 
-## 🔗 Live Demo
+## Live Demo
 **[medical-clinic-weld.vercel.app](https://medical-clinic-weld.vercel.app/)**
 
-## ✨ Features
+##  Features
 - **Luxury Design System**: Built with a custom navy, gold, and cream color palette.
 - **Interactive UI**: Fluid animations using Framer Motion and React.
 - **Custom Illustrations**: Minimalist SVG illustrations for specialized medical exams (EMG, EEG, PES, etc.).
@@ -13,7 +13,7 @@ Official website for the Neurophysiology and Functional Exploration clinic of Dr
 - **Quick Contact**: Integrated WhatsApp and Click-to-Call functionality.
 - **SEO Optimized**: Semantic HTML and meta tags for better visibility.
 
-## 📸 Screenshots
+##  Screenshots
 
 ### Header & Hero
 ![Header](screenshots/header.png)
@@ -21,12 +21,11 @@ Official website for the Neurophysiology and Functional Exploration clinic of Dr
 ### Contact & FAQ
 ![Contact](screenshots/contact.png)
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Frontend**: React (via CDN)
 - **Styling**: Tailwind CSS
 - **Animations**: Framer Motion
 - **Typography**: Google Fonts (Playfair Display & DM Sans)
 - **Hosting**: Vercel
 
----
-*Created with ❤️ for Dr. Belaid Mayada.*
+
